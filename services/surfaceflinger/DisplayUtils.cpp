@@ -240,4 +240,3 @@ bool DisplayUtils::hasWbNode() {
 }
 
 }; // namespace android
-
